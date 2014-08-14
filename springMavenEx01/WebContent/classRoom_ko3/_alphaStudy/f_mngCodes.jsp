@@ -94,7 +94,7 @@ function newNo() {
 
 <div class="content-container">
 
-    <div class="tab-container" style="margin-top: 0px;">
+    <div class="tab-container" style="margin-top: 20px;">
     	<div class="tabs">
         	<a href="#" class="tab-active" style="margin-left: 10px;">학교</a><a href="#">학생구분</a><a href="#">재학구분</a><a href="#">수강구분</a>
         	<a href="#">과목</a><a href="#">교재</a><a href="#">강의실</a><a href="#">전화국번</a><a href="#">휴대폰국번</a>
